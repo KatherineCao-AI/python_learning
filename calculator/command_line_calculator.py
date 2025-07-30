@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Jun 18 19:19:55 2025
-
-@author: G. Cao
-"""
-
 def add(n1, n2):
     return n1 + n2
 
