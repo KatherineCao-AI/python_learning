@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Jul 29 18:09:23 2025
-
-@author: G. Cao
-"""
-
 import time
 
 # --- DATA ---
